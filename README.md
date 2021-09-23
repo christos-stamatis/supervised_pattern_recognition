@@ -4,12 +4,12 @@ This repository contains two example implementations of the supervised pattern r
 
 ## Installation
 To run the scripts you will need:
-1) Python version 3.8.5 and over installed in your machine (during installation make sure you select the Add Python 3.5 to PATH" checkbox)
+1) Python version 3.8.5 and over installed in your machine (during installation make sure you select the Add Python to PATH" checkbox)
 2) numpy
 3) scikit-learn
 4) matplotlib
 
-Link to install [Python](https://www.python.org/)\ 
+Link to install [Python](https://www.python.org/)  
 Use the package manager [pip](https://docs.python.org/3/installing/index.html) to install packages 2-4.
 
 ## Script implementation steps
@@ -23,4 +23,4 @@ python example_1.py
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU GPL v2.p](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
