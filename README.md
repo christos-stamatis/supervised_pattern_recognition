@@ -1,6 +1,6 @@
 # Supervised pattern recognition 
 
-This repository contains two example implementations of the supervised pattern recognition algorithm for (paper link will become available when published).
+This repository contains two example implementations of the supervised pattern recognition algorithm and one example for classification using the pattern recognition results.
 
 ## Installation
 To run the scripts you will need:
@@ -23,4 +23,4 @@ python example_1.py
 ```
 
 ## License
-[GNU GPL v2.p](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[GNU GPL v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
