@@ -1,4 +1,4 @@
-# Supervised pattern recognition 
+# Examples 
 
 The folder examples contains two example implementations of the supervised pattern recognition algorithm, one example for classification using the pattern recognition results and the data sets to run the scripts.
 
