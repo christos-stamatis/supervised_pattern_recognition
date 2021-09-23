@@ -1,40 +1,26 @@
 # Supervised pattern recognition 
 
-This repository comtains two example implementations of the supervised pattern recognition algorithm for (paper will become available when published).
+This repository contains two example implementations of the supervised pattern recognition algorithm for (paper link will become available when published).
 
 ## Installation
 To run the scripts you will need:
-1) Python version 3.8.5 and over installed in your machine
+1) Python version 3.8.5 and over installed in your machine (during installation make sure you select the Add Python 3.5 to PATH" checkbox)
 2) numpy
 3) scikit-learn
 4) matplotlib
 
-Link to install [Python](https://www.python.org/) 
+Link to install [Python](https://www.python.org/)\ 
 Use the package manager [pip](https://docs.python.org/3/installing/index.html) to install packages 2-4.
 
-```bash
-python -m pip install numpy
+## Script implementation steps
+1) After you have installed items 1-4, create a folder and put the scripts (example_1.py and example_2.py) alogn with the sample data sets (samples_1.npy, samples_2.npy, labels_1.npy and labels_2.npy) in it.
+2) Open up a terminal (for MAO OS) or powershell (for Windows)
+3) Using your terminal [go to](http://modulesunraveled.com/command-line-beginners/moving-and-out-directories-cd-command) the folder you have the scripts and data sets
+4) Run the script from your terminal (example for running example_1.py below)
+
 ```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+python example_1.py
 ```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
