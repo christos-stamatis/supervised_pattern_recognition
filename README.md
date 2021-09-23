@@ -1,13 +1,19 @@
-# Foobar
+# Supervised pattern recognition 
 
-Foobar is a Python library for dealing with word pluralization.
+This repository comtains two example implementations of the supervised pattern recognition algorithm for (paper will become available when published).
 
 ## Installation
+To run the scripts you will need:
+1) Python version 3.8.5 and over installed in your machine
+2) numpy
+3) scikit-learn
+4) matplotlib
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Link to install [Python](https://www.python.org/) 
+Use the package manager [pip](https://docs.python.org/3/installing/index.html) to install packages 2-4.
 
 ```bash
-pip install foobar
+python -m pip install numpy
 ```
 
 ## Usage
