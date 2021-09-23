@@ -6,7 +6,7 @@ This repository contains two two folders; examples and DATA.
 The examples folder contains implementation scripts for the pattern recognition algorithm along with synthetic data sets.
 
 ## DATA
-The data folder contains the FIRELAB FL12 (see manuscript) emission ratios data that were used to run the pattern recognition algorithm and also train the LDA classifier. Note: No prepcrocessing (as decribed on the manuscript sections 2.21 and 3.1) has taken place.
+The data folder contains the FIRELAB FL12 (see manuscript) emission ratios data that were used to run the pattern recognition algorithm and also train the LDA classifier. Note: The data have been preprocessed as decribed on the manuscript sections 2.2.1 and 3.1. 
 
 
 ## License
