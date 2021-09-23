@@ -1,5 +1,4 @@
 import numpy as np
-from sklearn.datasets import make_classification
 from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import f_classif
 from sklearn.preprocessing import StandardScaler
