@@ -11,3 +11,6 @@ The data folder contains the FIRELAB FL12 (see manuscript) emission ratios data 
 
 ## License
 [GNU GPL v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
+## Digital Object Identifier
+[![DOI](https://zenodo.org/badge/407359646.svg)](https://zenodo.org/badge/latestdoi/407359646)
