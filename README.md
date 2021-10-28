@@ -8,6 +8,8 @@ The examples folder contains implementation scripts for the pattern recognition 
 ## DATA
 The data folder contains the FIRELAB FL12, FLAME-4 FL12 and BFRS (see manuscript) emission ratios data that were used to run the pattern recognition algorithm and also train the LDA classifier. Note: The FIRELAB FL16 data have been preprocessed as decribed on the manuscript sections 2.2.1 and 3.1. 
 
+## Acknowledgments
+This work was partially funded by the National Oceanic and Atmospheric Administration (NOAA) grant NA16OAR4310103.
 
 ## License
 [GNU GPL v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
