@@ -5,9 +5,6 @@ This repository contains two folders; examples and DATA.
 ## Examples
 The examples folder contains implementation scripts for the pattern recognition algorithm along with synthetic data sets.
 
-## DATA
-The data folder contains the data used in this project. More information can be found in each individual file and in the manuscript 
-
 ## Acknowledgments
 This work was supported by; NOAA grants NA16OAR4310103 and NA17OAR4310007; and CARB grant 00010311.
 
