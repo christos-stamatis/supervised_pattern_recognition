@@ -1,7 +1,4 @@
 # Supervised pattern recognition 
-
-This repository contains two folders; examples and DATA.
-
 ## Examples
 The examples folder contains implementation scripts for the pattern recognition algorithm along with synthetic data sets.
 
